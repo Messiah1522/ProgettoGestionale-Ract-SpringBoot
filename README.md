@@ -4,7 +4,7 @@ Questo è un codice kickstarter per l'esercitazione della classe React e Java Sp
 ## Informazioni sul progetto
 Breve panoramica sul progetto e sulle tecnologie utilizzate
 
-- Sviluppatore: Michele Mincone
+- Sviluppatore: Giuseppe Leonardo Viola
 - Data: 27 febbraio 2026
 - Tecnologie:
     - Frontend:
