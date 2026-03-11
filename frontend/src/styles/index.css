@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --navy: #0f172a;
+  --red: #dc2626;
+  --cream: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--navy);
+}
